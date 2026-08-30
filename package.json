@@ -1,0 +1,17 @@
+{
+  "name": "ai-email-generator",
+  "version": "1.0.0",
+  "description": "A simple AI email draft generator built with plain HTML/CSS/JS and a Node/Express backend, using the Gemini API.",
+  "main": "server/server.js",
+  "scripts": {
+    "start": "node server/server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.6",
+    "dotenv": "^17.4.2",
+    "express": "^5.2.1"
+  }
+}
